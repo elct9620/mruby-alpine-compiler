@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM i386/alpine:3.4
 
 COPY ./bin/entrypoint /usr/local/bin
 

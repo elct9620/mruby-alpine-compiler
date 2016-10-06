@@ -1,4 +1,4 @@
-FROM alpine:3.4
+FROM i386/alpine:3.4
 
 ENV MRUBY_PATH /mruby
 ENV MRUBY_VERSION 1.2.0
