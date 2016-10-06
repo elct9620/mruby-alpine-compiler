@@ -1,4 +1,4 @@
-# mruby Alpine Builder
+# mruby Alpine compiler
 
 This is a experimental project to prepare cross-compile mruby for ARM.
 
