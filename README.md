@@ -34,7 +34,7 @@ Now, run `make`
 
 To make a command line application, we provide two constant to receive command line arguments.
 
-```
+```ruby
 puts "The ruby receives #{ARGC} arguments."
 puts "The argument valus is: "
 puts ARGV
